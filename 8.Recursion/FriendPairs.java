@@ -6,7 +6,7 @@ public class FriendPairs {
     }
 
     public static void main(String[] args) {
-        System.out.println(pairs(5));
+        System.out.println(pairs(3));
     }
     
 }
